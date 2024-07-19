@@ -1,0 +1,16 @@
+/* src/pages/HomePage.css */
+
+.home-page {
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+  }
+  
+  .home-page h1 {
+    text-align: center;
+  }
+  
+  .home-page p {
+    line-height: 1.6;
+  }
+  
